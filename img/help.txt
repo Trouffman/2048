@@ -1,0 +1,18 @@
+Place for your images.
+
+Put in each images of 107*107pixels with the following names :
+
+item1.png
+item2.png
+item4.png
+item8.png
+item16.png
+item32.png
+item128.png
+item256.png
+item512.png
+item1024.png
+itemfull.png
+
+
+Enjoy,
